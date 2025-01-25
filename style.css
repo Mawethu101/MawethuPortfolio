@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.background-image {
+    background-image: url('./images/Screenshot\ \(3\).png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    font-size: 8rem;
+    padding-top: 10rem;
+    color: rgba(27, 33, 81, 1);
+}
+
+
+h2 {
+    text-align: center;
+    font-size: 4rem;
+    padding-top: 10rem;
+    color: rgba(27, 33, 81, 1);
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+p {
+    text-align: center;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+    font-size: 27px;
+}
+
+.spacer img{
+    align-items: center;
+    width: 250px;
+    height: 100px;
+    padding-left: 40rem;
+    transition: .4s linear;
+}
+
+
+.brand {
+    width: 20rem;
+    height: 20rem;
+    color: black;
+    size: 10rem;
+}
