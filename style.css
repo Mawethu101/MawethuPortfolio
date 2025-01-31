@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+
 .background-image {
     background-image: url('./images/Screenshot\ \(3\).png');
     background-size: cover;
@@ -22,6 +23,7 @@ h2 {
     text-align: center;
     font-size: 4rem;
     padding-top: 10rem;
+    padding-bottom: 2rem;
     color: rgba(27, 33, 81, 1);
 }
 
@@ -30,23 +32,42 @@ h3 {
     font-size: 1.6rem;
 }
 
+h4 {
+    text-align: left;
+    margin-left: 12%;
+    color: rgba(27, 33, 81, 1);
+    font-size: 2rem;
+}
+
+h5 {
+    text-align: left;
+    margin-left: 12%;
+    color: black;
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+
 p {
     text-align: center;
     padding-left: 10rem;
     padding-right: 10rem;
-    padding-top: 3rem;
-    padding-bottom: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
     font-size: 27px;
 }
 
-.spacer img{
-    align-items: center;
-    width: 250px;
-    height: 100px;
-    padding-left: 40rem;
-    transition: .4s linear;
+.welcome{
+    background-color: rgba(27, 33, 81, 1);
 }
 
+.welcome h2{
+    color: white;
+}
+
+.welcome p{
+    color: white;
+}
 
 .brand {
     width: 20rem;

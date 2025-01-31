@@ -1,0 +1,27 @@
+.img_deg{
+    float: right;
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 30%;
+}
+
+.pos_cen{
+    width: 90%;
+    left: 5%;
+    bottom: 20%;
+    top: 10%;
+    
+}
+
+.pos_cen p{
+    text-align: left;
+    font-size: 20px;
+}
+
+.pos_cen ul li{
+    padding-left: 14%;
+    font-size: 20px;
+    padding-right: 30%;
+    text-decoration: none;
+    padding-top: 20px;
+}
